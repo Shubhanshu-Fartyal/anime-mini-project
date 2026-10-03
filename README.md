@@ -1,6 +1,6 @@
 # Anime Series Data Analysis & Feature Extraction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shubhanshu-Fartyal/anime-mini-project/blob/main/P5_animeproject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shubhanshu-Fartyal/anime-mini-project/blob/main/feature_extraction_code.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-orange.svg)](https://pandas.pydata.org/)
 
